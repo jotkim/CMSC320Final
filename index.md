@@ -1,9 +1,8 @@
-# Auva Amirmokri
-# Josiah Kim
-# Jessica Llewellyn
+## Auva Amirmokri
+## Josiah Kim
+## Jessica Llewellyn
 
-# Track GPAs/grades before/during/after COVID 
-bruh
+### Track GPAs/grades before/during/after COVID 
 
 [editor on GitHub](https://github.com/jotkim/CMSC320Final/edit/gh-pages/index.md)
 
