@@ -1,6 +1,5 @@
-## Auva Amirmokri
-## Josiah Kim
-## Jessica Llewellyn
+## CMSC320 Final Tutorial: Team Alkaline
+## Auva Amirmokri, Josiah Kim, Jessica Llewellyn
 
 ### Track GPAs/grades before/during/after COVID 
 
