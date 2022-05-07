@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Auva Amirmokri
+# Josiah Kim
+# Jessica Llewellyn
 
-You can use the [editor on GitHub](https://github.com/jotkim/CMSC320Final/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Track GPAs/grades before/during/after COVID 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+[editor on GitHub](https://github.com/jotkim/CMSC320Final/edit/gh-pages/index.md)
 
 ```markdown
 Syntax highlighted code block
